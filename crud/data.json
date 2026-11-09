@@ -1,0 +1,1396 @@
+{
+	"Skin Care": {
+		"V": [
+			"Skin may become dry and sensitive; gentle oil massage can help.",
+			"Avoid too much heat, hot water and strong sunlight.",
+			"Prefer soothing, gentle skin care.",
+			"Use a mild cleanser.",
+			"Moisturize after bathing.",
+			"Use sunscreen when outdoors."
+		],
+		"P": [
+			"Skin may be sensitive and prone to dryness or redness.",
+			"Protect from heat and strong sun.",
+			"Gentle oiling may help dryness.",
+			"Use mild, fragrance-free products.",
+			"Moisturize dry areas.",
+			"Use sun protection."
+		],
+		"K": [
+			"Skin may be slightly oily yet dry in some areas.",
+			"Use light moisturization rather than heavy creams.",
+			"Regular activity and bathing are helpful.",
+			"Keep skin clean and dry.",
+			"Avoid greasy products.",
+			"Maintain adequate hydration."
+		],
+		"VP": [
+			"Skin may become dry and sensitive; gentle oil massage can help.",
+			"Avoid too much heat, hot water and strong sunlight.",
+			"Prefer soothing, gentle skin care.",
+			"Use a mild cleanser.",
+			"Moisturize after bathing.",
+			"Use sunscreen when outdoors."
+		],
+		"VK": [
+			"Skin may be dry but also slightly oily; use moderate oiling.",
+			"Avoid very heavy creams and excessive oil.",
+			"Encourage daily physical activity.",
+			"Keep skin clean.",
+			"Moisturize only as needed.",
+			"Maintain good hydration."
+		],
+		"PV": [
+			"Skin may be sensitive and prone to dryness or redness.",
+			"Protect from heat and strong sun.",
+			"Gentle oiling may help dryness.",
+			"Use mild, fragrance-free products.",
+			"Moisturize dry areas.",
+			"Use sun protection."
+		],
+		"PK": [
+			"Skin may be warm, sensitive or prone to redness.",
+			"Avoid excessive heat and strong sunlight.",
+			"Prefer cooling and soothing skin care.",
+			"Use gentle products.",
+			"Avoid harsh cosmetics.",
+			"Use sun protection."
+		],
+		"KV": [
+			"Skin may be slightly oily yet dry in some areas.",
+			"Use light moisturization rather than heavy creams.",
+			"Regular activity and bathing are helpful.",
+			"Keep skin clean and dry.",
+			"Avoid greasy products.",
+			"Maintain adequate hydration."
+		],
+		"KP": [
+			"Skin may be oily and sensitive to heat.",
+			"Keep skin clean without over-washing.",
+			"Avoid excessive oiling and heavy creams.",
+			"Use a gentle cleanser.",
+			"Protect from strong sun.",
+			"Avoid pore-clogging cosmetics."
+		],
+		"Sa": [
+			"Skin generally benefits from a simple balanced routine.",
+			"Follow seasonal skin care.",
+			"Use gentle cleansing and appropriate moisturization.",
+			"Keep skin clean.",
+			"Maintain hydration.",
+			"Use sun protection."
+		]
+	},
+	"Blood Health": {
+		"V": [
+			"Give regular, nourishing meals; avoid skipping meals.",
+			"Include foods that support healthy blood formation.",
+			"Avoid excessive very spicy/hot foods.",
+			"Include iron-rich foods such as leafy greens, pulses and suitable animal foods.",
+			"Add vitamin-C-rich fruits with iron-containing meals.",
+			"Ensure adequate protein during growth."
+		],
+		"P": [
+			"Give regular meals and avoid prolonged gaps.",
+			"Avoid excessive spicy, sour and very hot foods.",
+			"Choose fresh and nourishing foods.",
+			"Include iron-rich foods.",
+			"Include folate/B12 sources.",
+			"Combine iron-containing foods with vitamin-C-rich fruits."
+		],
+		"K": [
+			"Prefer light, nutritious and easily digestible meals.",
+			"Avoid excessive sweets, fried foods and heavy meals.",
+			"Do not encourage prolonged fasting or meal skipping.",
+			"Include iron-rich foods.",
+			"Ensure adequate protein.",
+			"Encourage regular physical activity."
+		],
+		"VP": [
+			"Give regular, nourishing meals; avoid skipping meals.",
+			"Include foods that support healthy blood formation.",
+			"Avoid excessive very spicy/hot foods.",
+			"Include iron-rich foods such as leafy greens, pulses and suitable animal foods.",
+			"Add vitamin-C-rich fruits with iron-containing meals.",
+			"Ensure adequate protein during growth."
+		],
+		"VK": [
+			"Give nourishing but not excessively heavy meals.",
+			"Avoid too many sweets and fried/heavy foods.",
+			"Keep meals regular and encourage activity.",
+			"Include iron-rich foods.",
+			"Ensure adequate protein.",
+			"Limit highly processed foods."
+		],
+		"PV": [
+			"Give regular meals and avoid prolonged gaps.",
+			"Avoid excessive spicy, sour and very hot foods.",
+			"Choose fresh and nourishing foods.",
+			"Include iron-rich foods.",
+			"Include folate/B12 sources.",
+			"Combine iron-containing foods with vitamin-C-rich fruits."
+		],
+		"PK": [
+			"Give a fresh, balanced diet and avoid excessive spicy/hot foods.",
+			"Include foods that nourish healthy blood formation.",
+			"Maintain regular meals.",
+			"Include iron-rich foods.",
+			"Ensure adequate protein.",
+			"If the child is unusually pale or tired, discuss blood testing with a doctor."
+		],
+		"KV": [
+			"Prefer light, nutritious and easily digestible meals.",
+			"Avoid excessive sweets, fried foods and heavy meals.",
+			"Do not encourage prolonged fasting or meal skipping.",
+			"Include iron-rich foods.",
+			"Ensure adequate protein.",
+			"Encourage regular physical activity."
+		],
+		"KP": [
+			"Avoid excessive sweets, fried and very heavy foods.",
+			"Include a variety of fresh, nutritious foods.",
+			"Maintain regular activity and good digestion.",
+			"Include iron-rich foods.",
+			"Ensure adequate protein and micronutrients.",
+			"Check for deficiency when there are signs or clinical indications."
+		],
+		"Sa": [
+			"Maintain a well-balanced diet suitable for age and growth.",
+			"Include a variety of nutritious foods.",
+			"Maintain regular meals and good digestion.",
+			"Include iron-rich foods.",
+			"Ensure adequate protein, folate and B12.",
+			"Supplements should be used when a deficiency is identified or advised."
+		]
+	},
+	"Hair": {
+		"V": [
+			"Hair/scalp may become dry or sensitive; gentle oiling can help.",
+			"Avoid excessive heat on the scalp.",
+			"Avoid harsh or strongly drying shampoos.",
+			"Use a mild shampoo.",
+			"Avoid frequent heat styling.",
+			"Ensure adequate protein and nutrition."
+		],
+		"P": [
+			"Scalp may be sensitive and affected by heat.",
+			"Gentle oiling may help dryness.",
+			"Avoid excessive sun and heat.",
+			"Use mild shampoo.",
+			"Avoid harsh chemical treatments.",
+			"Ensure adequate protein and micronutrients."
+		],
+		"K": [
+			"Scalp may become oily or heavy; avoid excessive oiling.",
+			"Keep scalp clean with regular washing.",
+			"Avoid heavy hair products.",
+			"Wash according to scalp oiliness.",
+			"Avoid prolonged scalp oil accumulation.",
+			"Maintain balanced nutrition."
+		],
+		"VP": [
+			"Hair/scalp may become dry or sensitive; gentle oiling can help.",
+			"Avoid excessive heat on the scalp.",
+			"Avoid harsh or strongly drying shampoos.",
+			"Use a mild shampoo.",
+			"Avoid frequent heat styling.",
+			"Ensure adequate protein and nutrition."
+		],
+		"VK": [
+			"Scalp may be dry in some areas and oily in others.",
+			"Use moderate oiling.",
+			"Wash regularly to prevent oil accumulation.",
+			"Use shampoo according to scalp oiliness.",
+			"Avoid heavy hair products.",
+			"Maintain balanced nutrition."
+		],
+		"PV": [
+			"Scalp may be sensitive and affected by heat.",
+			"Gentle oiling may help dryness.",
+			"Avoid excessive sun and heat.",
+			"Use mild shampoo.",
+			"Avoid harsh chemical treatments.",
+			"Ensure adequate protein and micronutrients."
+		],
+		"PK": [
+			"Scalp may be sensitive to heat.",
+			"Avoid excessive hot-water washing and heat styling.",
+			"Gentle scalp oiling may be used when suitable.",
+			"Keep scalp clean.",
+			"Avoid harsh chemicals.",
+			"Maintain adequate protein and nutrition."
+		],
+		"KV": [
+			"Scalp may become oily or heavy; avoid excessive oiling.",
+			"Keep scalp clean with regular washing.",
+			"Avoid heavy hair products.",
+			"Wash according to scalp oiliness.",
+			"Avoid prolonged scalp oil accumulation.",
+			"Maintain balanced nutrition."
+		],
+		"KP": [
+			"Scalp may be oily and sensitive to heat.",
+			"Use moderate oiling and regular cleansing.",
+			"Avoid heavy/oily hair products.",
+			"Keep scalp clean.",
+			"Avoid excessive heat styling.",
+			"Ensure adequate protein and micronutrients."
+		],
+		"Sa": [
+			"Maintain a simple, regular hair-care routine.",
+			"Gentle scalp oiling may be used when suitable.",
+			"Avoid excessive heat and chemicals.",
+			"Clean the scalp regularly.",
+			"Avoid unnecessary hair products.",
+			"Maintain balanced nutrition."
+		]
+	},
+	"Nails": {
+		"V": [
+			"Nails may become dry or brittle; keep them moisturized.",
+			"Protect from excessive heat and injury.",
+			"Give nourishing foods regularly.",
+			"Keep nails trimmed.",
+			"Discourage nail biting/picking.",
+			"Ensure adequate protein, iron and micronutrients."
+		],
+		"P": [
+			"Nails may be sensitive or prone to dryness.",
+			"Protect them from heat and injury.",
+			"Keep them moisturized.",
+			"Trim regularly.",
+			"Avoid biting/picking.",
+			"Ensure adequate protein and micronutrients."
+		],
+		"K": [
+			"Nails may be slightly thicker or prone to moisture accumulation.",
+			"Keep them clean and dry.",
+			"Avoid prolonged dampness.",
+			"Keep nails short.",
+			"Dry hands and feet properly.",
+			"Maintain adequate protein and micronutrients."
+		],
+		"VP": [
+			"Nails may become dry or brittle; keep them moisturized.",
+			"Protect from excessive heat and injury.",
+			"Give nourishing foods regularly.",
+			"Keep nails trimmed.",
+			"Discourage nail biting/picking.",
+			"Ensure adequate protein, iron and micronutrients."
+		],
+		"VK": [
+			"Nails may be dry but may also collect dirt/moisture.",
+			"Keep them clean and dry.",
+			"Use a little moisturizer if dry.",
+			"Keep nails short.",
+			"Discourage nail biting.",
+			"Maintain balanced nutrition."
+		],
+		"PV": [
+			"Nails may be sensitive or prone to dryness.",
+			"Protect them from heat and injury.",
+			"Keep them moisturized.",
+			"Trim regularly.",
+			"Avoid biting/picking.",
+			"Ensure adequate protein and micronutrients."
+		],
+		"PK": [
+			"Protect nails from heat, injury and harsh chemicals.",
+			"Keep them clean and well maintained.",
+			"Support healthy growth with good nutrition.",
+			"Trim regularly.",
+			"Avoid biting/picking.",
+			"Watch persistent discoloration or brittleness."
+		],
+		"KV": [
+			"Nails may be slightly thicker or prone to moisture accumulation.",
+			"Keep them clean and dry.",
+			"Avoid prolonged dampness.",
+			"Keep nails short.",
+			"Dry hands and feet properly.",
+			"Maintain adequate protein and micronutrients."
+		],
+		"KP": [
+			"Keep nails clean and dry, particularly after playing outdoors or sweating.",
+			"Avoid excessive heat and injury.",
+			"Maintain good nutrition.",
+			"Trim regularly.",
+			"Avoid biting/picking.",
+			"Ensure adequate protein and micronutrients."
+		],
+		"Sa": [
+			"Maintain regular nail care and balanced nutrition.",
+			"Keep nails clean and dry.",
+			"Avoid excessive dryness or moisture.",
+			"Trim regularly.",
+			"Discourage nail biting/picking.",
+			"Observe changes in colour, shape or texture."
+		]
+	},
+	"Teeth": {
+		"V": [
+			"Teeth and gums benefit from regular and gentle care.",
+			"Avoid very dry or irritating oral habits.",
+			"Give nourishing foods that support healthy teeth.",
+			"Brush twice daily.",
+			"Include calcium- and protein-rich foods.",
+			"Have regular dental check-ups."
+		],
+		"P": [
+			"Mouth may be more sensitive to very sour, spicy or hot foods.",
+			"Avoid excessive acidic foods.",
+			"Support healthy teeth with nourishing foods.",
+			"Brush twice daily.",
+			"Limit sugary and acidic foods.",
+			"Have regular dental examinations."
+		],
+		"K": [
+			"Avoid excessive sweets and sticky foods.",
+			"Maintain good oral cleanliness.",
+			"Encourage regular activity and healthy food habits.",
+			"Brush twice daily.",
+			"Limit sugary drinks and frequent snacking.",
+			"Have regular dental care."
+		],
+		"VP": [
+			"Teeth and gums benefit from regular and gentle care.",
+			"Avoid very dry or irritating oral habits.",
+			"Give nourishing foods that support healthy teeth.",
+			"Brush twice daily.",
+			"Include calcium- and protein-rich foods.",
+			"Have regular dental check-ups."
+		],
+		"VK": [
+			"Maintain good oral cleanliness and avoid excessive sweet/sticky foods.",
+			"Avoid frequent snacking on heavy/sweet foods.",
+			"Encourage regular activity and healthy eating.",
+			"Brush twice daily.",
+			"Limit sticky sweets and sugary drinks.",
+			"Have regular dental check-ups."
+		],
+		"PV": [
+			"Mouth may be more sensitive to very sour, spicy or hot foods.",
+			"Avoid excessive acidic foods.",
+			"Support healthy teeth with nourishing foods.",
+			"Brush twice daily.",
+			"Limit sugary and acidic foods.",
+			"Have regular dental examinations."
+		],
+		"PK": [
+			"Teeth and gums may be sensitive to excessive heat, sour and spicy foods.",
+			"Avoid frequent acidic foods and drinks.",
+			"Maintain nourishing food habits.",
+			"Brush twice daily.",
+			"Limit sugary/acidic snacks.",
+			"Have regular dental visits."
+		],
+		"KV": [
+			"Avoid excessive sweets and sticky foods.",
+			"Maintain good oral cleanliness.",
+			"Encourage regular activity and healthy food habits.",
+			"Brush twice daily.",
+			"Limit sugary drinks and frequent snacking.",
+			"Have regular dental care."
+		],
+		"KP": [
+			"Avoid excessive sweet, sticky and heavy foods.",
+			"Limit foods that remain on teeth for a long time.",
+			"Maintain good oral cleanliness.",
+			"Brush twice daily.",
+			"Limit sugary drinks and frequent sugar exposure.",
+			"Have regular dental check-ups."
+		],
+		"Sa": [
+			"Maintain balanced food habits and regular oral care.",
+			"Avoid excessive sweets and frequent snacking.",
+			"Support healthy teeth through nutritious food.",
+			"Brush twice daily with age-appropriate fluoride toothpaste.",
+			"Limit frequent sugar exposure.",
+			"Have regular dental check-ups."
+		]
+	},
+	"Eating Pattern": {
+		"V": [
+			"Keep meal timings regular.",
+			"Prefer warm, freshly prepared and nourishing meals.",
+			"Avoid long gaps between meals.",
+			"Eat slowly and calmly.",
+			"Avoid frequent dry/packaged snacks.",
+			"Encourage a balanced breakfast."
+		],
+		"P": [
+			"Maintain regular meals without long gaps.",
+			"Prefer fresh, nourishing and moderately cooling foods.",
+			"Avoid very spicy, sour or very hot foods in excess.",
+			"Eat calmly and without rushing.",
+			"Include fresh fruits and vegetables.",
+			"Avoid skipping breakfast or lunch."
+		],
+		"K": [
+			"Keep meals regular and moderate in quantity.",
+			"Prefer warm, fresh and easily digestible foods.",
+			"Avoid frequent heavy, oily and sweet foods.",
+			"Encourage regular physical activity.",
+			"Avoid eating when not hungry.",
+			"Reduce unnecessary snacking."
+		],
+		"VP": [
+			"Keep meal timings regular.",
+			"Prefer warm, freshly prepared and nourishing meals.",
+			"Avoid long gaps between meals.",
+			"Eat slowly and calmly.",
+			"Avoid frequent dry/packaged snacks.",
+			"Encourage a balanced breakfast."
+		],
+		"VK": [
+			"Keep meals regular but avoid overeating.",
+			"Prefer warm, freshly prepared, lighter meals.",
+			"Avoid frequent heavy or oily foods.",
+			"Encourage active play before/after meals as appropriate.",
+			"Reduce unnecessary snacking.",
+			"Eat mindfully and at a comfortable pace."
+		],
+		"PV": [
+			"Maintain regular meals without long gaps.",
+			"Prefer fresh, nourishing and moderately cooling foods.",
+			"Avoid very spicy, sour or very hot foods in excess.",
+			"Eat calmly and without rushing.",
+			"Include fresh fruits and vegetables.",
+			"Avoid skipping breakfast or lunch."
+		],
+		"PK": [
+			"Maintain regular meals according to hunger and activity.",
+			"Prefer fresh, balanced and moderately cooling foods.",
+			"Avoid excessive spicy, sour, salty and very hot foods.",
+			"Avoid eating in a hurry.",
+			"Include vegetables and seasonal fruits.",
+			"Limit highly processed foods."
+		],
+		"KV": [
+			"Keep meals regular and moderate in quantity.",
+			"Prefer warm, fresh and easily digestible foods.",
+			"Avoid frequent heavy, oily and sweet foods.",
+			"Encourage regular physical activity.",
+			"Avoid eating when not hungry.",
+			"Reduce unnecessary snacking."
+		],
+		"KP": [
+			"Prefer fresh, light-to-moderate meals at regular times.",
+			"Avoid excessive sweets, fried and heavy foods.",
+			"Encourage active play and movement.",
+			"Avoid overeating.",
+			"Reduce frequent snacking.",
+			"Include vegetables and seasonal fruits."
+		],
+		"Sa": [
+			"Maintain regular, balanced meals appropriate for age and activity.",
+			"Prefer fresh and varied foods.",
+			"Eat according to hunger and activity.",
+			"Avoid overeating and meal skipping.",
+			"Include all major food groups.",
+			"Maintain pleasant, mindful eating habits."
+		]
+	},
+	"Hydration": {
+		"V": [
+			"Take water regularly rather than waiting until very thirsty.",
+			"Prefer normal or mildly warm water.",
+			"Avoid excessive cold drinks.",
+			"Increase fluids during physical activity.",
+			"Offer water at regular intervals.",
+			"Watch for signs of dehydration such as dark urine or unusual tiredness."
+		],
+		"P": [
+			"Maintain frequent hydration, especially in warm weather.",
+			"Prefer cool or normal-temperature water according to comfort.",
+			"Avoid excessive very hot beverages.",
+			"Increase fluids during outdoor activity.",
+			"Include water-rich fruits when suitable.",
+			"Watch for excessive thirst or dark urine."
+		],
+		"K": [
+			"Encourage regular water intake even if the child does not feel thirsty often.",
+			"Prefer normal-temperature water.",
+			"Avoid excessive sweet drinks.",
+			"Increase fluids during exercise and heat.",
+			"Keep water easily accessible.",
+			"Encourage adequate hydration throughout the day."
+		],
+		"VP": [
+			"Take water regularly rather than waiting until very thirsty.",
+			"Prefer normal or mildly warm water.",
+			"Avoid excessive cold drinks.",
+			"Increase fluids during physical activity.",
+			"Offer water at regular intervals.",
+			"Watch for signs of dehydration such as dark urine or unusual tiredness."
+		],
+		"VK": [
+			"Encourage regular water intake even when thirst is low.",
+			"Prefer normal-temperature water.",
+			"Avoid excessive sweetened/cold beverages.",
+			"Increase fluids with exercise and hot weather.",
+			"Keep a water bottle available.",
+			"Encourage regular toilet habits."
+		],
+		"PV": [
+			"Maintain frequent hydration, especially in warm weather.",
+			"Prefer cool or normal-temperature water according to comfort.",
+			"Avoid excessive very hot beverages.",
+			"Increase fluids during outdoor activity.",
+			"Include water-rich fruits when suitable.",
+			"Watch for excessive thirst or dark urine."
+		],
+		"PK": [
+			"Pay particular attention to hydration in hot weather and during exercise.",
+			"Prefer normal or comfortably cool water.",
+			"Avoid excessive very hot beverages.",
+			"Increase fluids with sweating and physical activity.",
+			"Keep water readily available.",
+			"Watch for signs of dehydration."
+		],
+		"KV": [
+			"Encourage regular water intake even if the child does not feel thirsty often.",
+			"Prefer normal-temperature water.",
+			"Avoid excessive sweet drinks.",
+			"Increase fluids during exercise and heat.",
+			"Keep water easily accessible.",
+			"Encourage adequate hydration throughout the day."
+		],
+		"KP": [
+			"Maintain regular hydration, particularly during exercise and hot weather.",
+			"Prefer normal-temperature water.",
+			"Avoid sugary and excessively cold drinks.",
+			"Replace fluids lost through sweating.",
+			"Keep water available during school/activity.",
+			"Monitor urine colour as a simple hydration indicator."
+		],
+		"Sa": [
+			"Drink according to thirst, activity and environmental conditions.",
+			"Maintain regular water intake throughout the day.",
+			"Increase fluids during exercise and hot weather.",
+			"Prefer water over sweetened beverages.",
+			"Carry water when outdoors.",
+			"Maintain pale-yellow urine as a practical hydration goal."
+		]
+	},
+	"Sleep Duration & Quality": {
+		"V": [
+			"Maintain a predictable bedtime and wake-up time.",
+			"Create a quiet, comfortable and calming bedtime routine.",
+			"Avoid stimulating activities immediately before bed.",
+			"Aim for adequate age-appropriate sleep.",
+			"Reduce screen use before bedtime.",
+			"Encourage relaxation before sleep."
+		],
+		"P": [
+			"Keep bedtime regular and avoid excessive late-night activity.",
+			"Create a cool, calm sleeping environment.",
+			"Avoid stimulating food/drinks close to bedtime.",
+			"Aim for adequate age-appropriate sleep.",
+			"Reduce screen exposure before bed.",
+			"Encourage relaxation and quiet time."
+		],
+		"K": [
+			"Maintain a regular bedtime and wake-up time.",
+			"Avoid excessive daytime naps.",
+			"Encourage sufficient daytime physical activity.",
+			"Aim for adequate age-appropriate sleep without oversleeping.",
+			"Avoid screens before bed.",
+			"Keep the sleeping environment comfortable and well ventilated."
+		],
+		"VP": [
+			"Maintain a predictable bedtime and wake-up time.",
+			"Create a quiet, comfortable and calming bedtime routine.",
+			"Avoid stimulating activities immediately before bed.",
+			"Aim for adequate age-appropriate sleep.",
+			"Reduce screen use before bedtime.",
+			"Encourage relaxation before sleep."
+		],
+		"VK": [
+			"Maintain a consistent sleep and wake schedule.",
+			"Avoid late-night eating and excessive daytime sleeping.",
+			"Encourage adequate daytime activity.",
+			"Aim for adequate age-appropriate sleep.",
+			"Keep screens away before bedtime.",
+			"Make the bedroom comfortable and well ventilated."
+		],
+		"PV": [
+			"Keep bedtime regular and avoid excessive late-night activity.",
+			"Create a cool, calm sleeping environment.",
+			"Avoid stimulating food/drinks close to bedtime.",
+			"Aim for adequate age-appropriate sleep.",
+			"Reduce screen exposure before bed.",
+			"Encourage relaxation and quiet time."
+		],
+		"PK": [
+			"Avoid late nights and excessive mental stimulation before sleep.",
+			"Keep the bedroom cool and comfortable.",
+			"Maintain a calm bedtime routine.",
+			"Aim for adequate age-appropriate sleep.",
+			"Avoid screens before bedtime.",
+			"Encourage regular physical activity during the day."
+		],
+		"KV": [
+			"Maintain a regular bedtime and wake-up time.",
+			"Avoid excessive daytime naps.",
+			"Encourage sufficient daytime physical activity.",
+			"Aim for adequate age-appropriate sleep without oversleeping.",
+			"Avoid screens before bed.",
+			"Keep the sleeping environment comfortable and well ventilated."
+		],
+		"KP": [
+			"Avoid very late sleeping and excessive daytime sleep.",
+			"Encourage active daytime routines.",
+			"Maintain a fixed bedtime and wake time.",
+			"Aim for adequate age-appropriate sleep.",
+			"Reduce screen exposure before bed.",
+			"Keep the bedroom comfortable and uncluttered."
+		],
+		"Sa": [
+			"Maintain a consistent sleep-wake routine.",
+			"Ensure adequate sleep according to age.",
+			"Balance daytime activity with nighttime rest.",
+			"Avoid screens close to bedtime.",
+			"Keep the bedroom quiet and comfortable.",
+			"Encourage a relaxing bedtime routine."
+		]
+	},
+	"Natural Sweating": {
+		"V": [
+			"Sweating may increase with heat or activity; allow the body to cool naturally.",
+			"Avoid excessive heat exposure.",
+			"Use breathable clothing.",
+			"Replace fluids after significant sweating.",
+			"Bathe after heavy sweating and dry the skin well.",
+			"Observe unusual or sudden changes in sweating."
+		],
+		"P": [
+			"May sweat more easily with heat or exertion; protect from overheating.",
+			"Avoid excessive sun and hot environments.",
+			"Prefer light, breathable clothing.",
+			"Rehydrate after sweating.",
+			"Bathe or rinse after heavy sweating.",
+			"Seek advice for unusual sweating patterns."
+		],
+		"K": [
+			"Encourage regular movement and physical activity.",
+			"Avoid excessive heat and very heavy clothing.",
+			"Encourage natural sweating during exercise rather than prolonged inactivity.",
+			"Hydrate adequately.",
+			"Clean the skin after sweating.",
+			"Observe unusual changes in sweating."
+		],
+		"VP": [
+			"Sweating may increase with heat or activity; allow the body to cool naturally.",
+			"Avoid excessive heat exposure.",
+			"Use breathable clothing.",
+			"Replace fluids after significant sweating.",
+			"Bathe after heavy sweating and dry the skin well.",
+			"Observe unusual or sudden changes in sweating."
+		],
+		"VK": [
+			"Encourage regular physical activity to support healthy sweating.",
+			"Avoid excessive overheating and prolonged inactivity.",
+			"Prefer light, breathable clothing.",
+			"Replace fluids after exercise.",
+			"Keep skin clean after sweating.",
+			"Observe persistent excessive sweating."
+		],
+		"PV": [
+			"May sweat more easily with heat or exertion; protect from overheating.",
+			"Avoid excessive sun and hot environments.",
+			"Prefer light, breathable clothing.",
+			"Rehydrate after sweating.",
+			"Bathe or rinse after heavy sweating.",
+			"Seek advice for unusual sweating patterns."
+		],
+		"PK": [
+			"May have a noticeable sweating response in heat or activity.",
+			"Avoid excessive heat exposure.",
+			"Prefer breathable cotton/light clothing.",
+			"Replace fluids after sweating.",
+			"Keep skin clean and dry after activity.",
+			"Discuss persistent excessive/night sweating with a doctor."
+		],
+		"KV": [
+			"Encourage regular movement and physical activity.",
+			"Avoid excessive heat and very heavy clothing.",
+			"Encourage natural sweating during exercise rather than prolonged inactivity.",
+			"Hydrate adequately.",
+			"Clean the skin after sweating.",
+			"Observe unusual changes in sweating."
+		],
+		"KP": [
+			"Sweating may increase with heat and physical activity; encourage regular exercise.",
+			"Avoid overheating and heavy clothing.",
+			"Maintain adequate hydration.",
+			"Keep skin clean after sweating.",
+			"Prefer breathable clothing.",
+			"Observe persistent excessive sweating."
+		],
+		"Sa": [
+			"Allow natural sweating during normal activity and exercise.",
+			"Avoid both excessive heat and unnecessary restriction of sweating.",
+			"Wear comfortable, breathable clothing.",
+			"Replace fluids after significant sweating.",
+			"Maintain regular hygiene.",
+			"Observe any sudden or unusual change in sweating."
+		]
+	},
+	"Voice & Speaking Style": {
+		"V": [
+			"Encourage calm, clear and unhurried speech.",
+			"Avoid excessive shouting or prolonged talking when tired.",
+			"Give time to organize thoughts before speaking.",
+			"Maintain adequate hydration.",
+			"Encourage reading aloud gently.",
+			"Praise clear communication rather than speaking speed."
+		],
+		"P": [
+			"Encourage soft, clear and controlled speech.",
+			"Avoid shouting, speaking in anger or excessive talking.",
+			"Encourage pauses when emotionally excited.",
+			"Maintain good hydration.",
+			"Practice reading aloud with appropriate voice modulation.",
+			"Encourage respectful communication."
+		],
+		"K": [
+			"Encourage clear and slightly more energetic speech.",
+			"Encourage the child to express thoughts rather than speaking too softly.",
+			"Use storytelling and interactive activities.",
+			"Maintain adequate hydration.",
+			"Encourage reading aloud.",
+			"Praise active participation and clarity."
+		],
+		"VP": [
+			"Encourage calm, clear and unhurried speech.",
+			"Avoid excessive shouting or prolonged talking when tired.",
+			"Give time to organize thoughts before speaking.",
+			"Maintain adequate hydration.",
+			"Encourage reading aloud gently.",
+			"Praise clear communication rather than speaking speed."
+		],
+		"VK": [
+			"Encourage clear and energetic but not excessively loud speech.",
+			"Encourage participation in conversations.",
+			"Avoid prolonged silence or reluctance to communicate.",
+			"Maintain adequate hydration.",
+			"Encourage reading, storytelling and group activities.",
+			"Praise confidence and clarity."
+		],
+		"PV": [
+			"Encourage soft, clear and controlled speech.",
+			"Avoid shouting, speaking in anger or excessive talking.",
+			"Encourage pauses when emotionally excited.",
+			"Maintain good hydration.",
+			"Practice reading aloud with appropriate voice modulation.",
+			"Encourage respectful communication."
+		],
+		"PK": [
+			"Encourage clear, confident and pleasant speech.",
+			"Avoid shouting or speaking aggressively.",
+			"Encourage control of voice when excited or angry.",
+			"Maintain hydration.",
+			"Practice reading aloud and voice modulation.",
+			"Encourage listening before responding."
+		],
+		"KV": [
+			"Encourage clear and slightly more energetic speech.",
+			"Encourage the child to express thoughts rather than speaking too softly.",
+			"Use storytelling and interactive activities.",
+			"Maintain adequate hydration.",
+			"Encourage reading aloud.",
+			"Praise active participation and clarity."
+		],
+		"KP": [
+			"Encourage clear, confident and appropriately energetic speech.",
+			"Avoid speaking too loudly or too forcefully.",
+			"Encourage good listening and turn-taking.",
+			"Maintain adequate hydration.",
+			"Use storytelling, reading and group communication activities.",
+			"Encourage expressive but respectful speech."
+		],
+		"Sa": [
+			"Encourage clear, confident and natural communication.",
+			"Maintain appropriate volume and pace.",
+			"Encourage listening and thoughtful responses.",
+			"Maintain good hydration.",
+			"Encourage reading, storytelling and conversation.",
+			"Support the child's natural voice without forcing a particular style."
+		]
+	},
+	"Maintaining Body Temperature": {
+		"V": [
+			"Keep regular meal and sleep timings.",
+			"Prefer comfortably warm, freshly prepared food.",
+			"Protect from cold wind and sudden temperature changes.",
+			"Avoid staying hungry for long periods.",
+			"Use light layers in changing weather.",
+			"Encourage adequate fluids during heat and activity."
+		],
+		"P": [
+			"Avoid excessive heat and direct sun.",
+			"Prefer fresh, moderately cooling foods.",
+			"Keep the room comfortably cool in hot weather.",
+			"Avoid very hot drinks and spicy foods in excess.",
+			"Encourage regular hydration.",
+			"Make weather changes gradually."
+		],
+		"K": [
+			"Keep the child active, especially in cold weather.",
+			"Prefer warm, fresh and easily digestible meals.",
+			"Avoid excessive cold foods and drinks.",
+			"Do not keep the child indoors and inactive for long periods.",
+			"Use comfortable warm clothing when needed.",
+			"Maintain regular hydration."
+		],
+		"VP": [
+			"Keep regular meal and sleep timings.",
+			"Prefer comfortably warm, freshly prepared food.",
+			"Protect from cold wind and sudden temperature changes.",
+			"Avoid staying hungry for long periods.",
+			"Use light layers in changing weather.",
+			"Encourage adequate fluids during heat and activity."
+		],
+		"VK": [
+			"Keep comfortably warm without overheating.",
+			"Prefer fresh, warm and lighter meals.",
+			"Avoid sitting inactive in cold weather for long periods.",
+			"Encourage daily movement.",
+			"Avoid sudden exposure to very cold environments.",
+			"Maintain regular hydration."
+		],
+		"PV": [
+			"Avoid excessive heat and direct sun.",
+			"Prefer fresh, moderately cooling foods.",
+			"Keep the room comfortably cool in hot weather.",
+			"Avoid very hot drinks and spicy foods in excess.",
+			"Encourage regular hydration.",
+			"Make weather changes gradually."
+		],
+		"PK": [
+			"Give extra attention to heat management.",
+			"Avoid prolonged exposure to strong sun.",
+			"Prefer comfortable, cooling surroundings.",
+			"Avoid excessive spicy, very hot foods and drinks.",
+			"Maintain good hydration.",
+			"Use breathable, light clothing in hot weather."
+		],
+		"KV": [
+			"Keep the child active, especially in cold weather.",
+			"Prefer warm, fresh and easily digestible meals.",
+			"Avoid excessive cold foods and drinks.",
+			"Do not keep the child indoors and inactive for long periods.",
+			"Use comfortable warm clothing when needed.",
+			"Maintain regular hydration."
+		],
+		"KP": [
+			"Avoid excessive heat as well as prolonged inactivity.",
+			"Prefer fresh, lighter meals.",
+			"Encourage outdoor movement in suitable weather.",
+			"Avoid excessive cold drinks and heavy meals.",
+			"Maintain hydration.",
+			"Adjust clothing according to the weather rather than overheating."
+		],
+		"Sa": [
+			"Dress according to the weather.",
+			"Maintain comfortable room temperature.",
+			"Keep meals and hydration regular.",
+			"Avoid sudden extremes of hot and cold.",
+			"Encourage age-appropriate physical activity.",
+			"Observe how the child personally responds to weather changes."
+		]
+	},
+	"Regulating Bowel Habit": {
+		"V": [
+			"Encourage going to the toilet at a regular time.",
+			"Give adequate fluids through the day.",
+			"Include fruits, vegetables and suitable fibre-rich foods.",
+			"Avoid repeatedly delaying the urge to pass stool.",
+			"Keep meals regular and freshly prepared.",
+			"Encourage daily physical movement."
+		],
+		"P": [
+			"Maintain regular meal and toilet timings.",
+			"Encourage adequate fluids, particularly in hot weather.",
+			"Include fresh fruits and vegetables.",
+			"Avoid excessive spicy, oily and processed foods.",
+			"Do not suppress the urge to pass stool.",
+			"Encourage regular physical activity."
+		],
+		"K": [
+			"Establish a regular morning toilet routine.",
+			"Encourage warm water and adequate fluids.",
+			"Give sufficient fruits, vegetables and fibre.",
+			"Avoid excessive heavy, oily and very sweet foods.",
+			"Encourage daily physical activity.",
+			"Avoid prolonged sitting and excessive daytime inactivity."
+		],
+		"VP": [
+			"Encourage going to the toilet at a regular time.",
+			"Give adequate fluids through the day.",
+			"Include fruits, vegetables and suitable fibre-rich foods.",
+			"Avoid repeatedly delaying the urge to pass stool.",
+			"Keep meals regular and freshly prepared.",
+			"Encourage daily physical movement."
+		],
+		"VK": [
+			"Maintain a fixed toilet routine.",
+			"Encourage adequate water even when thirst is low.",
+			"Include vegetables, fruits and appropriate fibre.",
+			"Avoid excessive heavy, fried and processed foods.",
+			"Encourage daily activity.",
+			"Avoid prolonged sitting after meals."
+		],
+		"PV": [
+			"Maintain regular meal and toilet timings.",
+			"Encourage adequate fluids, particularly in hot weather.",
+			"Include fresh fruits and vegetables.",
+			"Avoid excessive spicy, oily and processed foods.",
+			"Do not suppress the urge to pass stool.",
+			"Encourage regular physical activity."
+		],
+		"PK": [
+			"Keep bowel and meal timings regular.",
+			"Maintain good hydration.",
+			"Include adequate fruits, vegetables and fibre.",
+			"Avoid excessive spicy, fried and highly processed foods.",
+			"Encourage daily activity.",
+			"Seek medical advice for persistent constipation, diarrhoea or blood in stool."
+		],
+		"KV": [
+			"Establish a regular morning toilet routine.",
+			"Encourage warm water and adequate fluids.",
+			"Give sufficient fruits, vegetables and fibre.",
+			"Avoid excessive heavy, oily and very sweet foods.",
+			"Encourage daily physical activity.",
+			"Avoid prolonged sitting and excessive daytime inactivity."
+		],
+		"KP": [
+			"Maintain regular meals and toilet timing.",
+			"Encourage adequate water intake.",
+			"Include vegetables, fruits and suitable fibre.",
+			"Limit heavy, fried and highly processed foods.",
+			"Encourage active play.",
+			"Do not ignore repeated changes in bowel pattern."
+		],
+		"Sa": [
+			"Encourage regular toilet timing without forcing.",
+			"Maintain adequate hydration.",
+			"Offer a varied diet containing vegetables, fruits and fibre.",
+			"Encourage daily movement.",
+			"Avoid both overeating and excessive restriction.",
+			"Observe the child's normal bowel pattern and changes from it."
+		]
+	},
+	"Maintaining Healthy Weight": {
+		"V": [
+			"Do not skip meals for long periods.",
+			"Give regular, nourishing meals and healthy snacks when needed.",
+			"Include adequate protein and nutrient-rich foods.",
+			"Encourage active play rather than excessive sedentary time.",
+			"Avoid dependence on packaged snacks for quick energy.",
+			"Monitor growth rather than focusing only on body weight."
+		],
+		"P": [
+			"Avoid meal skipping followed by overeating.",
+			"Give balanced meals with adequate protein, vegetables and fruits.",
+			"Limit excessive spicy, fried and processed foods.",
+			"Encourage regular physical activity.",
+			"Maintain regular meal timing.",
+			"Follow growth pattern rather than appearance alone."
+		],
+		"K": [
+			"Avoid excessive portions and frequent snacking.",
+			"Prefer fresh, light and easily digestible meals.",
+			"Limit sweets, fried foods and heavy meals.",
+			"Encourage vigorous age-appropriate activity.",
+			"Avoid prolonged sitting after meals.",
+			"Monitor growth and activity regularly."
+		],
+		"VP": [
+			"Do not skip meals for long periods.",
+			"Give regular, nourishing meals and healthy snacks when needed.",
+			"Include adequate protein and nutrient-rich foods.",
+			"Encourage active play rather than excessive sedentary time.",
+			"Avoid dependence on packaged snacks for quick energy.",
+			"Monitor growth rather than focusing only on body weight."
+		],
+		"VK": [
+			"Maintain regular meals without overeating.",
+			"Prefer fresh, balanced and lighter meals.",
+			"Limit frequent fried, oily and sugary snacks.",
+			"Encourage daily active play.",
+			"Avoid eating simply because food is available.",
+			"Monitor growth and activity together."
+		],
+		"PV": [
+			"Avoid meal skipping followed by overeating.",
+			"Give balanced meals with adequate protein, vegetables and fruits.",
+			"Limit excessive spicy, fried and processed foods.",
+			"Encourage regular physical activity.",
+			"Maintain regular meal timing.",
+			"Follow growth pattern rather than appearance alone."
+		],
+		"PK": [
+			"Maintain balanced meals at regular times.",
+			"Avoid excessive spicy, salty, fried and sugary foods.",
+			"Include adequate protein, vegetables and fruits.",
+			"Encourage daily physical activity.",
+			"Avoid frequent processed-food snacking.",
+			"Assess weight along with height and age."
+		],
+		"KV": [
+			"Avoid excessive portions and frequent snacking.",
+			"Prefer fresh, light and easily digestible meals.",
+			"Limit sweets, fried foods and heavy meals.",
+			"Encourage vigorous age-appropriate activity.",
+			"Avoid prolonged sitting after meals.",
+			"Monitor growth and activity regularly."
+		],
+		"KP": [
+			"Keep portions moderate and meals regular.",
+			"Limit sweets, fried foods and heavy snacks.",
+			"Encourage daily sports or active play.",
+			"Avoid eating out of boredom or inactivity.",
+			"Include vegetables, fruits and adequate protein.",
+			"Monitor both weight and height over time."
+		],
+		"Sa": [
+			"Provide a balanced diet according to age and activity.",
+			"Maintain regular meals and sensible portions.",
+			"Include protein, vegetables, fruits and whole grains.",
+			"Encourage daily physical activity.",
+			"Limit excess packaged and sugary foods.",
+			"Track healthy growth rather than aiming for a particular body shape."
+		]
+	},
+	"Maintaining Physical Stamina & Reducing Fatigue": {
+		"V": [
+			"Build activity gradually rather than suddenly increasing exercise.",
+			"Give regular nourishing meals and adequate fluids.",
+			"Include sufficient rest between activities.",
+			"Encourage stretching and gentle strengthening.",
+			"Avoid excessive activity when tired or unwell.",
+			"Maintain a predictable sleep routine."
+		],
+		"P": [
+			"Prefer regular moderate activity rather than exercising excessively in heat.",
+			"Hydrate before and after vigorous activity.",
+			"Avoid exercising in very hot conditions.",
+			"Give balanced meals to support recovery.",
+			"Include rest after intense activity.",
+			"Build stamina progressively."
+		],
+		"K": [
+			"Encourage daily active play and sports.",
+			"Gradually increase physical activity.",
+			"Avoid long periods of sitting.",
+			"Give lighter meals around heavy activity.",
+			"Maintain hydration.",
+			"Encourage adequate but not excessive sleep."
+		],
+		"VP": [
+			"Build activity gradually rather than suddenly increasing exercise.",
+			"Give regular nourishing meals and adequate fluids.",
+			"Include sufficient rest between activities.",
+			"Encourage stretching and gentle strengthening.",
+			"Avoid excessive activity when tired or unwell.",
+			"Maintain a predictable sleep routine."
+		],
+		"VK": [
+			"Encourage regular daily physical activity.",
+			"Increase exercise gradually and consistently.",
+			"Avoid prolonged inactivity between activities.",
+			"Give balanced meals and adequate hydration.",
+			"Encourage outdoor games and movement.",
+			"Maintain regular sleep and recovery time."
+		],
+		"PV": [
+			"Prefer regular moderate activity rather than exercising excessively in heat.",
+			"Hydrate before and after vigorous activity.",
+			"Avoid exercising in very hot conditions.",
+			"Give balanced meals to support recovery.",
+			"Include rest after intense activity.",
+			"Build stamina progressively."
+		],
+		"PK": [
+			"Avoid prolonged exercise in strong heat.",
+			"Maintain hydration during active days.",
+			"Encourage regular moderate-to-vigorous activity according to age.",
+			"Allow sufficient recovery after intense exercise.",
+			"Give balanced meals and adequate protein.",
+			"Do not ignore persistent or unusual fatigue."
+		],
+		"KV": [
+			"Encourage daily active play and sports.",
+			"Gradually increase physical activity.",
+			"Avoid long periods of sitting.",
+			"Give lighter meals around heavy activity.",
+			"Maintain hydration.",
+			"Encourage adequate but not excessive sleep."
+		],
+		"KP": [
+			"Maintain regular exercise rather than occasional intense exercise.",
+			"Encourage sports and outdoor activity.",
+			"Avoid heavy meals immediately before exercise.",
+			"Maintain hydration throughout active days.",
+			"Build endurance gradually.",
+			"Balance exercise with adequate recovery."
+		],
+		"Sa": [
+			"Encourage regular age-appropriate physical activity.",
+			"Include a mix of endurance, strength, flexibility and play.",
+			"Maintain adequate hydration and balanced nutrition.",
+			"Increase activity gradually.",
+			"Allow adequate recovery and sleep.",
+			"Watch for fatigue that is persistent or disproportionate to activity."
+		]
+	},
+	"Season Change / Ritusandhi Awareness": {
+		"V": [
+			"Give extra attention to routine during seasonal transition.",
+			"Avoid sudden changes in food, sleep and activity.",
+			"Protect against cold, wind and dryness when present.",
+			"Keep hydration regular.",
+			"Prefer freshly prepared, easily digestible food during transition.",
+			"Observe changes in digestion, sleep, skin and energy."
+		],
+		"P": [
+			"Give extra attention during transition into hotter weather.",
+			"Reduce excessive spicy and heating foods.",
+			"Increase attention to hydration.",
+			"Avoid prolonged sun exposure.",
+			"Keep sleep and meals regular.",
+			"Observe changes in skin, digestion and irritability."
+		],
+		"K": [
+			"Seasonal transitions may require extra attention to activity and digestion.",
+			"Avoid excessive heavy, oily and sweet foods.",
+			"Increase movement when the child becomes sluggish.",
+			"Keep sleep timing regular.",
+			"Adjust clothing according to temperature.",
+			"Observe congestion, appetite and bowel changes."
+		],
+		"VP": [
+			"Give extra attention to routine during seasonal transition.",
+			"Avoid sudden changes in food, sleep and activity.",
+			"Protect against cold, wind and dryness when present.",
+			"Keep hydration regular.",
+			"Prefer freshly prepared, easily digestible food during transition.",
+			"Observe changes in digestion, sleep, skin and energy."
+		],
+		"VK": [
+			"During seasonal change, maintain regular activity and meals.",
+			"Avoid sudden increase in heavy or oily foods.",
+			"Keep the child physically active.",
+			"Adjust clothing gradually.",
+			"Maintain regular sleep and hydration.",
+			"Observe congestion, sluggishness or digestive changes."
+		],
+		"PV": [
+			"Give extra attention during transition into hotter weather.",
+			"Reduce excessive spicy and heating foods.",
+			"Increase attention to hydration.",
+			"Avoid prolonged sun exposure.",
+			"Keep sleep and meals regular.",
+			"Observe changes in skin, digestion and irritability."
+		],
+		"PK": [
+			"Be particularly careful during hot-to-cold or cold-to-hot transitions.",
+			"Adjust food and clothing gradually.",
+			"Maintain hydration and regular meals.",
+			"Avoid excess heat, sun and very spicy foods in hot seasons.",
+			"Maintain consistent sleep.",
+			"Watch for changes in energy, digestion and skin."
+		],
+		"KV": [
+			"Seasonal transitions may require extra attention to activity and digestion.",
+			"Avoid excessive heavy, oily and sweet foods.",
+			"Increase movement when the child becomes sluggish.",
+			"Keep sleep timing regular.",
+			"Adjust clothing according to temperature.",
+			"Observe congestion, appetite and bowel changes."
+		],
+		"KP": [
+			"Maintain activity during seasonal changes.",
+			"Avoid excessive heavy and sweet foods.",
+			"Keep hydration regular.",
+			"Adjust clothing and activity gradually.",
+			"Maintain regular sleep and meals.",
+			"Watch for sluggishness, congestion or digestive changes."
+		],
+		"Sa": [
+			"Gradually adjust food, clothing, activity and sleep to the new season.",
+			"Maintain regular meals and hydration.",
+			"Prefer fresh seasonal foods.",
+			"Keep activity appropriate to weather.",
+			"Maintain regular sleep.",
+			"Observe individual responses during the transition."
+		]
+	},
+	"Recovery After Illness": {
+		"V": [
+			"Restart normal activity gradually.",
+			"Give small, easily digestible nourishing meals initially.",
+			"Maintain adequate fluids.",
+			"Allow additional rest and sleep.",
+			"Avoid sudden return to intense sports.",
+			"Increase activity as strength returns."
+		],
+		"P": [
+			"Give adequate fluids, especially after fever or heat-related illness.",
+			"Restart activity gradually.",
+			"Prefer fresh, easily digestible foods.",
+			"Avoid excessive spicy and irritating foods during recovery.",
+			"Allow adequate rest.",
+			"Resume sports only when strength has returned."
+		],
+		"K": [
+			"Gradually restart physical activity to overcome sluggishness.",
+			"Give light, warm and easily digestible meals initially.",
+			"Avoid excessive daytime sleep.",
+			"Maintain adequate hydration.",
+			"Resume normal routine step-by-step.",
+			"Monitor appetite, bowel habit and activity level."
+		],
+		"VP": [
+			"Restart normal activity gradually.",
+			"Give small, easily digestible nourishing meals initially.",
+			"Maintain adequate fluids.",
+			"Allow additional rest and sleep.",
+			"Avoid sudden return to intense sports.",
+			"Increase activity as strength returns."
+		],
+		"VK": [
+			"Do not return immediately to full activity after illness.",
+			"Start with light movement and gradually increase it.",
+			"Give fresh, light and nourishing food.",
+			"Maintain hydration even if thirst is low.",
+			"Avoid excessive daytime sleeping once recovery begins.",
+			"Observe return of normal appetite and energy."
+		],
+		"PV": [
+			"Give adequate fluids, especially after fever or heat-related illness.",
+			"Restart activity gradually.",
+			"Prefer fresh, easily digestible foods.",
+			"Avoid excessive spicy and irritating foods during recovery.",
+			"Allow adequate rest.",
+			"Resume sports only when strength has returned."
+		],
+		"PK": [
+			"Pay attention to hydration after fever or illness.",
+			"Prefer light, fresh and nourishing meals initially.",
+			"Avoid returning to intense activity too quickly.",
+			"Give sufficient rest and sleep.",
+			"Gradually resume school and sports.",
+			"Seek medical advice if fatigue or fever persists."
+		],
+		"KV": [
+			"Gradually restart physical activity to overcome sluggishness.",
+			"Give light, warm and easily digestible meals initially.",
+			"Avoid excessive daytime sleep.",
+			"Maintain adequate hydration.",
+			"Resume normal routine step-by-step.",
+			"Monitor appetite, bowel habit and activity level."
+		],
+		"KP": [
+			"Gradually return to normal activity and sports.",
+			"Avoid heavy meals during early recovery.",
+			"Maintain adequate fluids.",
+			"Give sufficient sleep without prolonged daytime inactivity.",
+			"Rebuild stamina progressively.",
+			"Observe whether normal energy returns."
+		],
+		"Sa": [
+			"Allow adequate rest without prolonged inactivity.",
+			"Gradually return to normal food and activity.",
+			"Maintain hydration and balanced nutrition.",
+			"Resume sports progressively.",
+			"Keep regular sleep and meal timings.",
+			"Seek medical advice if recovery is unusually slow."
+		]
+	},
+	"Maintaining Energy Throughout the Day": {
+		"V": [
+			"Start the day with a nourishing breakfast.",
+			"Avoid long gaps between meals.",
+			"Keep healthy snacks available when needed.",
+			"Maintain regular hydration.",
+			"Take short rest breaks between demanding activities.",
+			"Maintain consistent sleep timing."
+		],
+		"P": [
+			"Start with a balanced breakfast and adequate fluids.",
+			"Avoid excessive spicy or very heavy meals at lunch.",
+			"Maintain hydration through the day.",
+			"Use fruits and nourishing snacks instead of highly processed foods.",
+			"Take breaks during mentally demanding activities.",
+			"Protect sleep quality at night."
+		],
+		"K": [
+			"Avoid a very heavy breakfast or lunch.",
+			"Choose fresh, lighter meals that support alertness.",
+			"Encourage movement breaks throughout the day.",
+			"Limit unnecessary snacking.",
+			"Maintain regular hydration.",
+			"Avoid excessive daytime sleep."
+		],
+		"VP": [
+			"Start the day with a nourishing breakfast.",
+			"Avoid long gaps between meals.",
+			"Keep healthy snacks available when needed.",
+			"Maintain regular hydration.",
+			"Take short rest breaks between demanding activities.",
+			"Maintain consistent sleep timing."
+		],
+		"VK": [
+			"Begin with a balanced but not heavy breakfast.",
+			"Avoid frequent sugary snacks that cause energy fluctuations.",
+			"Keep active through the day.",
+			"Drink water regularly even without strong thirst.",
+			"Take short movement breaks after prolonged sitting.",
+			"Avoid very heavy lunches."
+		],
+		"PV": [
+			"Start with a balanced breakfast and adequate fluids.",
+			"Avoid excessive spicy or very heavy meals at lunch.",
+			"Maintain hydration through the day.",
+			"Use fruits and nourishing snacks instead of highly processed foods.",
+			"Take breaks during mentally demanding activities.",
+			"Protect sleep quality at night."
+		],
+		"PK": [
+			"Maintain regular balanced meals.",
+			"Avoid excessive spicy, fried and sugary foods that may affect comfort and energy.",
+			"Keep water easily available.",
+			"Take short breaks during study and activity.",
+			"Avoid skipping breakfast or lunch.",
+			"Maintain a cool, comfortable environment in hot weather."
+		],
+		"KV": [
+			"Avoid a very heavy breakfast or lunch.",
+			"Choose fresh, lighter meals that support alertness.",
+			"Encourage movement breaks throughout the day.",
+			"Limit unnecessary snacking.",
+			"Maintain regular hydration.",
+			"Avoid excessive daytime sleep."
+		],
+		"KP": [
+			"Begin the day with a balanced, moderate breakfast.",
+			"Avoid heavy meals and excessive sweets during school hours.",
+			"Encourage regular movement and outdoor activity.",
+			"Keep hydration consistent.",
+			"Use healthy snacks when genuinely hungry.",
+			"Maintain a regular sleep schedule."
+		],
+		"Sa": [
+			"Begin the day with a balanced breakfast.",
+			"Eat regular meals appropriate to activity level.",
+			"Maintain hydration throughout the day.",
+			"Include healthy snacks when needed.",
+			"Balance study, activity and short rest periods.",
+			"Maintain adequate night-time sleep."
+		]
+	}
+}

@@ -1,0 +1,10 @@
+student=[
+    {"id":1,"name":"ayushman","age":12,"health":80},
+    {"id":2,"name":"ayushman1","age":13,"health":81},
+    {"id":3,"name":"ayushman2","age":14,"health":82},
+    {"id":4,"name":"ayushman3","age":15,"health":83},
+    {"id":5,"name":"ayushman4","age":16,"health":84},
+    {"id":6,"name":"ayushman5","age":17,"health":85},
+    {"id":7,"name":"ayushman6","age":18,"health":86},
+    {"id":8,"name":"ayushman7","age":19,"health":87},
+]
